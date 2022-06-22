@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "busdater"]
+	path = busdater
+	url = https://github.com/mickmioduszewski/busdater
+	shallow = true
+	registered = true
