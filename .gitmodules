@@ -8,3 +8,6 @@
 [submodule "dqcheckr"]
 	path = dqcheckr
 	url = https://github.com/mickmioduszewski/dqcheckr
+[submodule "dqcheckrGUI"]
+	path = dqcheckrGUI
+	url = https://github.com/mickmioduszewski/dqcheckrgui
